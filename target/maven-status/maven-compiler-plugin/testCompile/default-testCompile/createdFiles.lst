@@ -1,0 +1,10 @@
+com/ateliwareqa/serenity/pages/DictionaryPage.class
+com/ateliwareqa/serenity/pages/AlertasOnlinePage.class
+com/ateliwareqa/serenity/steps/serenity/AlertasOnlineUserSteps.class
+com/ateliwareqa/serenity/steps/DefinitionSteps.class
+com/ateliwareqa/serenity/pages/WelcomePage.class
+com/ateliwareqa/serenity/steps/AlertasOnlineSteps.class
+com/ateliwareqa/serenity/AlertasOnline.class
+com/ateliwareqa/serenity/pages/LoginPage.class
+com/ateliwareqa/serenity/DefinitionTestSuite.class
+com/ateliwareqa/serenity/steps/serenity/EndUserSteps.class
