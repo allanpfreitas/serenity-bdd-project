@@ -11,8 +11,8 @@ import net.thucydides.core.annotations.Steps;
 
 public class AlertasOnlineSteps {
 
-    String user = "admin@votorantim.com.br";
-    String password = "admin@123";
+    String user = "admin";
+    String password = "hadouken";
 
     @Steps
     AlertasOnlineUserSteps loginPage;
